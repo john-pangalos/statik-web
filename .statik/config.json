@@ -1,0 +1,12 @@
+{
+  "projectName": "statik-web",
+  "buckets": {
+    "deploy": "statik-web-statik-deploy-57f43ccf-ef2b-4b29-b5c6-96aeeb30814a",
+    "preview": "statik-web-statik-preview-57f43ccf-ef2b-4b29-b5c6-96aeeb30814a"
+  },
+  "cloudFront": {
+    "cachePolicyId": "843cbc10-e7ba-4def-8f93-5e62423680f9",
+    "originAccessIdentityId": "EDXT5UVZ2U6W1",
+    "cloudFrontId": "EEXHPW2DH16CX"
+  }
+}
